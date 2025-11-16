@@ -1,3 +1,4 @@
+![FPGA Designer Banner](https://github.com/taskman57/taskman57/blob/master/GitHub%20Banner.jpg?raw=true)
 # 👋 Hi, I'm Hossein Moradi Sarvandi
 
 ### Senior FPGA / Hardware Design Engineer  
